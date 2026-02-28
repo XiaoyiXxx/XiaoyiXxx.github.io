@@ -33,7 +33,7 @@ My research interests focus on dynamic graph representation learning, including 
 **X+ means submission is in progress**
 
 <font color=red> ICML2026+, TEEE TKDE+ </font>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025Poster.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers of Computer Science</div><img src='images/FCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Status and Perspectives of Dynamic Graph Neural Ordinary Differential Equations](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51664-1)
