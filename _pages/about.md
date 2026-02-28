@@ -38,7 +38,7 @@ My research interests focus on dynamic graph representation learning, including 
 
 [Status and Perspectives of Dynamic Graph Neural Ordinary Differential Equations](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51664-1)
 
-Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang, Jiye Liang
+Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang, Jiye Liang
 </div>
 </div>
 
@@ -47,7 +47,7 @@ Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang, Jiye Liang
 
 [CSG-ODE: ControlSynth Graph ODE For Modeling Complex Evolution of Dynamic Graphs](https://icml.cc/virtual/2025/poster/46309)
 
-Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang
+Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang
 
 - (1) We propose the CSG-ODE model, which enables the model to better capture the complex evolution of node states through an information propagation-based inter-node importance weighting method and multiple sub-networks with nonlinear activation functions. (2) Based on CSG-ODE, we theoretically give its stabilized version SCSG-ODE. (3) The experimental results show that the proposed CSG-ODE outperforms the existing GODE model on five dynamic system datasets. And SCSG-ODE not only outperforms the existing GODE in terms of performance, but also exhibits optimal stability.
 </div>
@@ -58,7 +58,7 @@ Zhiqiang Wang, Xiaoyi Wang, Jianqing Liang
 
 [Multi-region infectious disease prediction modeling based on spatio-temporal graph neural network and the dynamic model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012738)
 
-Xiaoyi Wang, Zhen Jin
+**Xiaoyi Wang**, Zhen Jin
 
 - We incorporate the Graphormer and graph learning mechanisms into the metapopulation SIR model to build a hybrid framework, Metapopulation Graph Transformer Neural Network (M-Graphormer), for high-dimensional parameter estimation and multi-regional epidemic prediction.
 </div>
