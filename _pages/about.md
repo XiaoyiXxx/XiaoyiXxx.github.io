@@ -71,7 +71,7 @@ Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023. 
 
 # 📖 Educations
-- *2024.09 - 2028.6(now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student. 
+- *2024.09 - now*, School of Computer and Information Technology, Shanxi University. Ph.D. Student. 
 - *2022.09 - 2024.06*, School of Mathematics and Statistics, Shanxi University. MS. Student.
 
 # 💬 Invited Talks
