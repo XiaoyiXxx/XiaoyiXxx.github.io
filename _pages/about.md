@@ -49,7 +49,6 @@ Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang, Jiye Liang
 
 Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang
 
-- (1) We propose the CSG-ODE model, which enables the model to better capture the complex evolution of node states through an information propagation-based inter-node importance weighting method and multiple sub-networks with nonlinear activation functions. (2) Based on CSG-ODE, we theoretically give its stabilized version SCSG-ODE. (3) The experimental results show that the proposed CSG-ODE outperforms the existing GODE model on five dynamic system datasets. And SCSG-ODE not only outperforms the existing GODE in terms of performance, but also exhibits optimal stability.
 </div>
 </div>
 
@@ -60,7 +59,6 @@ Zhiqiang Wang, **Xiaoyi Wang**, Jianqing Liang
 
 **Xiaoyi Wang**, Zhen Jin
 
-- We incorporate the Graphormer and graph learning mechanisms into the metapopulation SIR model to build a hybrid framework, Metapopulation Graph Transformer Neural Network (M-Graphormer), for high-dimensional parameter estimation and multi-regional epidemic prediction.
 </div>
 </div>
 
